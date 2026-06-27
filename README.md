@@ -6,7 +6,7 @@ I'm a passionate **MERN Stack Developer** building scalable web applications. I 
 *   🔭 I’m currently building SaaS projects using **Next.js 14 and TypeScript**.
 *   ⚡ I love creating clean, efficient, and user-friendly web experiences.
 *   📫 How to reach me: [harshbudhauliya921@gmail.com](mailto:harshbudhauliya921@gmail.com)
-*   🌐 Check out my portfolio: [harsh-budhauliya-folio.vercel.app](https://harsh-budhauliya-folio.vercel.app/)
+*   🌐 Check out my portfolio: [harsh-budhauliya-folio.vercel.app](https://harsh-budhauliya-folio.vercel.app)
 
 ### 🛠 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
